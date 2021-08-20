@@ -1,0 +1,12 @@
+.md-typeset table:not([class]) td, .md-typeset table:not([class]) th{
+    padding-right: 0.8em;
+    padding-left: 0.8em;
+}
+
+.md-typeset table:not([class]) th{
+    min-width: 2rem;
+}
+
+.name-column{
+    min-width: 5rem;
+}
