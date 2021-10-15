@@ -2,37 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/comment_policy/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hitcoder9768.github.io/HitFi/Blogs/15-10-21/</loc>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/Headphones/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/IEMs/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hitcoder9768.github.io/HitFi/IEMs/blon-bl03/</loc>
+         <lastmod>2021-10-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hitcoder9768.github.io/HitFi/IEMs/crescent/</loc>
+         <lastmod>2021-10-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hitcoder9768.github.io/HitFi/IEMs/moondrop-aria/</loc>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/IEMs/moondrop-crescent/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://hitcoder9768.github.io/HitFi/IEMs/senfer-dt6/</loc>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/IEMs/sony-mh755/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hitcoder9768.github.io/HitFi/IEMs/tin-t2-plus/</loc>
-         <lastmod>2021-08-20</lastmod>
+         <lastmod>2021-10-15</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
